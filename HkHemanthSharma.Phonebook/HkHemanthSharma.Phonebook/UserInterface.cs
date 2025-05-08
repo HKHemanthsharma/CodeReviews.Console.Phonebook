@@ -1,7 +1,6 @@
 ﻿using HkHemanthSharma.Phonebook.Models;
 using HkHemanthSharma.Phonebook.Services;
 using Spectre.Console;
-using System.Drawing;
 using static HkHemanthSharma.Phonebook.Enum;
 using Color = Spectre.Console.Color;
 
